@@ -1,0 +1,7 @@
+.vs/
+bin/
+dependencies/
+obj/
+*.vcxproj.filters
+*.vcxproj.user
+glad.c
